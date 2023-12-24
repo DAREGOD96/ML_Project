@@ -4,7 +4,7 @@ Welcome to the Student Performance Indicator! This application helps you predict
 
 ## Output of the following project
 - A landing page with an introduction to the project and its purpose.
-![alt text](images\Homepage.png)
+![alt text](images/Homepage.png)
 
-- An interactive from that allows users to provide the appropiate input.
-![alt text](images\output.png)
+- An interactive form that allows users to provide the appropriate input.
+![alt text](images/output.png)
